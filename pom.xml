@@ -37,7 +37,7 @@
     <log4j2.disruptor.version>3.2.0</log4j2.disruptor.version>
 
     <ehcache.version>2.10.0</ehcache.version>
-    <shiro-version>1.2.5</shiro-version>
+    <shiro-version>1.5.0</shiro-version>
     <jedis.version>2.9.0</jedis.version>
     <spring-data-redis.version>1.7.1.RELEASE</spring-data-redis.version>
     <shiro-version>1.2.5</shiro-version>
